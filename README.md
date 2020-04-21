@@ -1,2 +1,2 @@
 # react-contacts-server
-Backend for create-contacts-react app
+ Backend server for contacts react-app
